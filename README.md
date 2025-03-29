@@ -1,4 +1,3 @@
-# DBFNet
 #PyTorch implementation of Dynamic Bilinear Fusion Network for Synthetic Aperture Radar Image Change Detection
 - **DOI**: [10.1109/LGRS.2025.3532346](https://doi.org/10.1109/LGRS.2025.3532346)
 
